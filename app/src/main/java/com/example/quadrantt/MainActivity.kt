@@ -39,8 +39,7 @@ class MainActivity : ComponentActivity() {
                         isDark = isDark,
                         onToggleTheme = { isDark = !isDark }
                     )
-                }
-            }
+                } }
         } }
 }
 
